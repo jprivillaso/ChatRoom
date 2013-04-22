@@ -1,4 +1,4 @@
 teleReto2
 =========
 
-Distributed Multiuser Chat
+This is a distributed chat made with sockets in Java
